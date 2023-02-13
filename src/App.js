@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>Rizqila Testing Deploy</p>
+        <p>Rizqila Testing 2</p>
         <a
           className="App-link"
           href="https://reactjs.org"
