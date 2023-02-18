@@ -52,7 +52,7 @@ export default class ContainerFluidExample extends React.Component {
           </Col>
       </Row>
       <Row className="bluebox">
-          <Col md={{span:6,offset:0}} className="mt-5">
+          <Col md={{span:6,offset:0}}>
                 <img src="https://eduwork.id/assets/ISA.png" alt="asset2" style={{width :"450px", height: "400px"}}/>
           </Col>
           <Col md={6} >
