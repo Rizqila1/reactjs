@@ -1,0 +1,75 @@
+.navbar {
+    background-color: #1056bf;
+}
+
+.imgNavbar {
+    width: 170px;
+    margin-top: 4px;
+}
+
+.ft {
+    font-size: 55px;
+    font-size: bolder;
+    margin-left: 135px;
+    margin-top: 100px;
+}
+
+.ft2 {
+    color: white;
+    margin-left: 135px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.gradient {
+    background-image: linear-gradient(#1056bf, #2a85c0);
+}
+
+.btn-warning {
+    margin-left: 135px;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-weight: bold;
+    border-radius: 50px;
+}
+.btn-dark {
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-weight: bold;
+    border-radius: 50px;
+    margin-left: 20px;
+}
+
+.aniq {
+    margin-top: 70px;
+    margin-left: 150px;
+    width: 590px;
+}
+
+.whatIs {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.feed {
+    margin-top: 50px;
+}
+
+.txt {
+    margin-top: 220px;
+}
+
+.bluebox {
+    margin-top: 50px;
+    width: 1350px;
+    margin-left: 90px;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+.textBx {
+    text-align: end;
+    margin-top: 150px;
+}
