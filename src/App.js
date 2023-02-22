@@ -1,11 +1,12 @@
-import Styling from "./Materi";
+import Validation from "./Materi";
+
 
 
 
 function App() {
   return (
     <div className="App">
-      <Styling/>
+      <Validation/>
     </div>
   );
 }
