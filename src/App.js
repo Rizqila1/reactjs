@@ -1,13 +1,10 @@
-import Validation from "./Materi";
-
-
+import Life from "./Materi/index";
 
 
 function App() {
   return (
     <div className="App">
-      <h1>testing</h1>
-      <Validation/>
+      <Life/>
       
     </div>
   );
