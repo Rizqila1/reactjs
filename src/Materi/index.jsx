@@ -1,18 +1,14 @@
 import React from "react";
-import Content from "./Lifecycle/Content";
-import Header from "./Lifecycle/Header";
+import Hook from "./Hook/Hook";
+import Top from "./Hook/Top";
 
-
-
-
-
-export default class Life extends React.Component {
+export default class Main extends React.Component {
     render () {
 
         return (
             <div>
-                <Header/>
-                <Content/>
+                <Top/>
+                <Hook/>
             </div>
         )
     }
