@@ -1,0 +1,14 @@
+.main {
+    text-align: center;
+    margin-top: 8%;
+}
+
+.text {
+    font-weight: bold;
+    margin-bottom: 70px;
+}
+
+.bio {
+    font-size: 2cm;
+    text-decoration: none;
+}

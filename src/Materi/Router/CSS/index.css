@@ -1,0 +1,31 @@
+.header0 {
+    text-decoration: none;
+    margin: 10px;
+    font-weight: bold;
+    color: white;
+}
+
+.header {
+    text-decoration: none;
+    margin: 10px;
+    margin-left: 2cm;
+    font-weight: bold;
+    color: white;
+}
+
+.footer {
+    text-align: center;
+    background-color: rgb(40, 121, 75);
+    font-weight: bold;
+    color: white;
+    padding: 7px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.main {
+    text-align: center;
+    font-weight: bold;
+}
+

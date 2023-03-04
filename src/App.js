@@ -1,5 +1,4 @@
-import Main from "./Materi";
-
+import Main from "./Materi/Index";
 
 
 function App() {

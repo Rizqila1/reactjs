@@ -1,0 +1,26 @@
+.tRow {
+    border: 2px solid #222222;
+    background-color: rgba(29, 217, 132, 0.558);
+}
+
+.tRow-data {
+    border: 2px solid #222222;
+    background-color: aliceblue;
+}
+
+.tHead {
+    padding: 10px;
+    border: 2px solid #222222;
+
+}
+
+.td {
+    border: 2px solid #222222;
+    padding: 10px;
+}
+
+.topTitle {
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
