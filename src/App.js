@@ -1,4 +1,5 @@
-import Main from "./Materi/Index";
+import Main from "./Materi/Index.jsx";
+
 
 
 function App() {
